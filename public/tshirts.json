@@ -1,0 +1,58 @@
+[
+    {
+      "_id": "623853b2614ad5aba311fdd1",
+      "index": 0,
+      "price": 14,
+      "picture": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/97ec9afa-ef79-479a-9987-70d2d6cdcb2b/mercurial-vapor-14-academy-mg-multi-ground-football-boot-tPZz5n.png",
+      "name": "Just Chill",
+      "gender": "Just Chill"
+    },
+    {
+      "_id": "623853b2578e9e6ad1ae0dd5",
+      "index": 1,
+      "picture": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a64abbe2-c1ed-4310-9d7c-deefb099b1bb/mercurial-superfly-8-academy-mg-multi-ground-football-boots-dvCK8z.png",
+      "name": "Keep Coding",
+      "price": 27,
+      "gender": "Keep Coding"
+    },
+    {
+      "_id": "623853b21fb149d2ee7b76c7",
+      "index": 2,
+      "picture": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/fc69ba8e-84ef-42f2-8e16-ec4f1721dba8/mercurial-dream-speed-superfly-8-academy-mg-multi-ground-football-boots-wv487L.png",
+      "name": "Black",
+      "price": 24,
+      "gender": ""
+    },
+    {
+      "_id": "623853b2e91c8de578c9245e",
+      "index": 3,
+      "picture": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/93d1b53a-ce19-4aea-9100-3e3c1abd29b8/phantom-gt2-dynamic-fit-elite-fg-football-boot-c2H8s5.png",
+      "name": "Mix Yellow",
+      "price": 14,
+      "gender": "Mix Yellow"
+    },
+    {
+      "_id": "623853b2239582e48409ccc6",
+      "index": 4,
+      "price": 34,
+      "picture": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a30b35dc-9615-42df-b944-8f0bfc987837/mercurial-superfly-8-elite-fg-football-boots-24FtzR.png",
+      "name": "Bachelor",
+      "gender": "male"
+    },
+    {
+      "_id": "623853b2cdda0d5bc294f791",
+      "index": 5,
+      "picture": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e8849966-f66c-47a7-b647-3a01ceda0389/custom-nike-phantom-gt-elite-by-you.png",
+      "name": "Right Price",
+      "price": 141,
+      "gender": "male"
+    },
+    {
+      "_id": "623853b2736f19fd4eb8d44a",
+      "index": 6,
+      "price": 41,
+      "picture": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ab702ec1-738e-4927-a247-46ba28891526/custom-nike-phantom-gt-elite-by-you.png",
+      "name": "Black Skull",
+      "gender": "female"
+    }
+  ]
